@@ -65,6 +65,7 @@ hockeyapp {
 ```
 ### Required
 * `apiToken`: Your API Token from [HockeyApp](http://hockeyapp.net/)
+* `assembleBeforeTask`: Optional: `true` (Default) run assemble task before this task, `false` do not run assemble task before this task
 
 ### Optional
 
