@@ -82,5 +82,8 @@ class HockeyAppPluginExtension {
         this.outputDirectory = outputDirectory
     }
 
+    Project getProject() {
+        return project
+    }
 
 }
